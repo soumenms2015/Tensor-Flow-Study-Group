@@ -8,4 +8,4 @@ In case you come up with a query, please post it in the issues section. The answ
 
 | Date  | Name | Topic |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
+| 31.07.2017  | Soumen  | Variable  |
