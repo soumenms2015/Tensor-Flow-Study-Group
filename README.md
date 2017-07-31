@@ -10,3 +10,4 @@ In case you come up with a query, please post it in the issues section. The answ
 | ------------- | ------------- | ------------- |
 | 31.07.2017  | Soumen  | Variable  |
 | 31.07.2017  | Naseer  | Cost Function Minimization |
+| 31.07.2017  | Tahseen  | Key Terms, Sessions, Resource Usage |
