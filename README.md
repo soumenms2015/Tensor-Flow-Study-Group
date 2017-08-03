@@ -12,3 +12,5 @@ In case you come up with a query, please post it in the issues section. The answ
 | 31.07.2017  | Naseer   | Cost Function Minimization |
 | 31.07.2017  | Shamsail | Constant |
 | 31.07.2017  | Tahseen  | Key Terms, Sessions, Resource Usage |
+
+| 04.08. 2017 | Naseer   | Matrix Operations
